@@ -44,3 +44,8 @@ p {
   margin-bottom: 10px;
   font-family:'Arial Narrow';
 }
+
+.icono-like, .icono-dislike {
+  margin-right: 5px;
+  color: rgb(81, 85, 81); 
+}

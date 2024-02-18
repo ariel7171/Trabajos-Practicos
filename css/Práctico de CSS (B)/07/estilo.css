@@ -42,3 +42,28 @@
 .resp {
     color: #888;
 }
+
+.fa {
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+    color: grey;
+  }
+
+  .cantidad-likes {
+    margin-right: 5px;
+    margin-left: 20px;
+}
+
+.fa-thumbs-up,
+.fa-thumbs-down {
+    margin-right: 35px;
+}
+
+.ver-respuestas {
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.ver-respuestas .fa {
+    margin-left: 5px; 
+}
