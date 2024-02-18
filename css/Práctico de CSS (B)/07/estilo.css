@@ -15,6 +15,12 @@
     margin-right: 10px;
 }
 
+#heart {
+    vertical-align: bottom;
+    width: 30;
+    margin-left: 40px;
+}
+
 .comentario-content {
     flex: 1;
 }
@@ -66,4 +72,7 @@
 
 .ver-respuestas .fa {
     margin-left: 5px; 
+}
+.fa-heart{
+color: rgb(193, 3, 3);
 }
